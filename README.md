@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="NumPy Practice">
+  <img src="assets/banner.png" alt="NumPy Practice">
 </p>
 
 # NumPy Practice 🔢
